@@ -104,6 +104,7 @@ nav a {
 	color: #fff;
 	background-color: #BEB45A;
 	border-radius:0 ;
+	text-shadow: 1px 1px black;
 }
 .nav-pills .nav-link {
 	color: #000
