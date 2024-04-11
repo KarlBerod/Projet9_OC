@@ -56,6 +56,10 @@ body {
 	font-style: normal;
 }
 
+.nina-img, .camera{
+	width: 100%;
+	height: auto;
+}
 
 header {
 	background-color: white;
